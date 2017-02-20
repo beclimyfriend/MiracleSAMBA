@@ -6,6 +6,10 @@
 
 #Tested on Ubuntu 14.04 LTS
 
+#Visit beclimyfriend.blogspot.com for more!!
+#Visita beclimyfriend.blogspot.com para más!! 
+#Created by Joan Chacón
+
 
 echo 'Do you want to update your repositories? (Y/N)'
 
